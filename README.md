@@ -1,4 +1,6 @@
 ## Hi there 👋
+### Welcome to my GitHub
+Let's connect on [LinkedIn](https://www.linkedin.com/in/shivanjali-adsul/)
 
 <!--
 **Shivanjaliadsul/Shivanjaliadsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
